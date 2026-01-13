@@ -1,3 +1,5 @@
+Link para o repositório original: https://github.com/alura-cursos/3172-alfabit-design-system
+
 ![3172 - React: Evolua seu Design System com Tailwind](thumb.png)
 
 # Alfabit
